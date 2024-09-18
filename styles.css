@@ -1,5 +1,7 @@
 body {
     background: rgb(113, 125, 129);
+    margin: 0;
+    padding: 0;
 }
 .box{
     pointer-events: none;
@@ -87,7 +89,6 @@ body {
     margin-right: 30px;
     font-size:large;
     font-style: italic;
-    text-align: justify;
     text-shadow: 0 0 10px rgb(68, 241, 0);
 }
 .tayo{
@@ -95,4 +96,49 @@ body {
 }
 .parrafo{
     margin-top: 50px;
+    text-align: justify;
+}
+@media (max-width: 768px) {
+    .box {
+        font-size: 20px;
+        height: 25px;
+        width: 95%;
+    }
+
+    .mini {
+        width: 80%; /* Caja más grande en móviles */
+        height: 100%x; /* Ajusta la altura automáticamente */
+    }
+
+    .explorer {
+        font-size: 20px;
+        left: 77%;
+        top: 55px;
+    }
+
+    .bien {
+        font-size: 16px;
+        margin-left: 5px;
+        margin-right: 15px;
+    }
+
+    .top{
+        height: 40px;
+        width: 98.1%;
+    }
+}
+.radio{
+right: 3%;;
+}
+.radio2{
+right: 7%;
+}
+.radio3{
+right: 11%;
+}
+.TuyiPlace{
+bottom: 20px;
+}
+.tayo{
+    margin-top: 80px;
 }
