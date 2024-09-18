@@ -107,7 +107,7 @@ body {
 
     .mini {
         width: 80%; /* Caja más grande en móviles */
-        height: 550px; /* Ajusta la altura automáticamente */
+        height: 600px; /* Ajusta la altura automáticamente */
     }
 
     .explorer {
