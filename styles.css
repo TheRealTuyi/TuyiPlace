@@ -43,7 +43,7 @@ body {
     background: rgb(155, 255, 33);
     width: 20px;
     height: 20px;
-    margin-left: 92%;
+    margin-left: 102%;
     position: relative;
     top: 4px;
     border: 3px solid rgba(0, 0, 0, 0);
@@ -55,7 +55,7 @@ body {
     background: rgb(52, 187, 99);
     width: 20px;
     height: 20px;
-    margin-left: 86%;
+    margin-left: 106%;
     position: relative;
     bottom: 21px;
     border: 3px solid rgba(0, 0, 0, 0);
@@ -66,7 +66,7 @@ body {
     background: rgb(39, 107, 74);
     width: 20px;
     height: 20px;
-    margin-left: 80%;
+    margin-left: 110%;
     position: relative;
     bottom: 46px;
     border: 3px solid rgba(0, 0, 0, 0);
@@ -92,7 +92,8 @@ body {
     text-shadow: 0 0 10px rgb(68, 241, 0);
 }
 .tayo{
-    margin-top: 150px;
+    position: relative;
+    top: 60px;
 }
 .parrafo{
     margin-top: 50px;
