@@ -102,17 +102,17 @@ body {
     .box {
         font-size: 20px;
         height: 25px;
-        width: 95%;
+        width: 94%;
     }
 
     .mini {
-        width: 80%; /* Caja más grande en móviles */
-        height: 580px; /* Ajusta la altura automáticamente */
+        width: 80%; 
+        height: 580px; 
     }
 
     .explorer {
         font-size: 20px;
-        left: 77%;
+        left: 70%;
         top: 55px;
     }
 
@@ -128,13 +128,13 @@ body {
     }
 }
 .radio{
-right: 3%;;
+right: 10%;;
 }
 .radio2{
-right: 7%;
+right: 20%;
 }
 .radio3{
-right: 11%;
+right: 30%;
 }
 .TuyiPlace{
 bottom: 20px;
