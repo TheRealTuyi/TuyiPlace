@@ -1,4 +1,4 @@
-body {
+.body1 {
   position: fixed;
     background: rgb(113, 125, 129);
     margin: 0;
@@ -6,6 +6,10 @@ body {
     max-width: 100%!important;
     overflow: hidden;
     touch-action: none!important;
+}
+
+.body2{
+  
 }
 
 .box {
@@ -129,6 +133,13 @@ body {
     font-size: 21px;
     text-decoration: none;
     color: transparent;
+}
+.sleep {
+  font-family: "Courgette";
+  margin-top: 200px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
 }
 @media screen and (max-width:720px) {
     .box{
