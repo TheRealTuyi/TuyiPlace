@@ -9,7 +9,7 @@
 }
 
 .body2{
-  
+  background-color: black;
 }
 
 .box {
@@ -140,6 +140,17 @@
   text-align: center;
   font-size: 30px;
   font-weight: bold;
+  color: rgba(63, 63, 54, 0.382);
+}
+.sle{
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+    z-index: -1;
 }
 @media screen and (max-width:720px) {
     .box{
